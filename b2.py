@@ -1,3 +1,4 @@
+#PVN 21%
 def ar_pvn(cena, likme=21):
     return cena * (1 + likme /100)
 
